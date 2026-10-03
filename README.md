@@ -6,6 +6,8 @@ This is a small page on my laptop. She uploads a .docx and gets back a fixed cop
 
 It runs Gemma 3 1B through Ollama on the laptop, so her files never leave it.
 
+Demo video: https://drive.google.com/drive/folders/1gQ7pM90d3quHsdf98rLGVd4XD-wU_3QE
+
 ## What it fixes
 
 Only spelling-type mistakes:
